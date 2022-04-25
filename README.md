@@ -2,6 +2,13 @@
 
 Maintain repo standards using contract definition
 
+## v0.1.0
+
+Uses hygen and has templates for a backend node project. Hygen is designed for generating standards, not maintaining 
+them, and will not be able to meet the future goals. This version is limited to initial scaffolding.
+
+
+
 ## Goals
 - major: use contract as source of truth for standards
 - major: permit divergence, not exceptions
