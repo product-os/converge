@@ -29,8 +29,8 @@
     "ts-node": "^9.1.1",
     "typescript": "^4.2.4"
   },
-  "dependencies": {
-
+  "dependencies": {},
+  "versionist": {
+    "publishedAt": "2022-04-25T08:29:25.983Z"
   }
 }
-
