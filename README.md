@@ -3,13 +3,13 @@
 Maintain repo standards using contract definition
 
 ## Goals
-- major: use contract as source of truth for boilerplate
+- major: use contract as source of truth for standards
 - major: permit divergence, not exceptions
 	- divergence should have a cost
 	- the cost is an incentive to converge by upstreaming or removing exceptions
 	- that cost can be anything; like a warning in the UI
 - major: support migrations
-	- able to update boilerplate when a change is made
+	- able to update standards when a change is made
 	- if not automatically, then with instructions for manual update
 - minor: structured data injection well-formed/indented
 

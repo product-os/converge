@@ -1,0 +1,13 @@
+---
+to: .resinci.yml
+---
+# This file is auto-synced from product-os/jellyfish-config/.resinci.yml
+# and should only be edited there!
+
+npm:
+  platforms:
+    - name: linux
+      os: alpine
+      architecture: x86_64
+      node_versions:
+        - "16"

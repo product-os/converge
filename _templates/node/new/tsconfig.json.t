@@ -1,0 +1,20 @@
+---
+to: tsconfig.json
+---
+{
+	"compilerOptions": {
+		"module": "commonjs",
+		"outDir": "build",
+		"noUnusedParameters": true,
+		"noUnusedLocals": true,
+		"removeComments": true,
+		"sourceMap": true,
+		"strict": true,
+		"target": "es2015",
+		"declaration": true,
+		"skipLibCheck": true
+	},
+	"include": [
+		"lib/**/*.ts"
+	]
+}
