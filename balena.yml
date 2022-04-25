@@ -1,0 +1,6 @@
+name: converge
+description: Maintain repo standards using contract definition
+type: source
+version: '0.1.0'
+data:
+  is_public: true
