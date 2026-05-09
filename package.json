@@ -19,7 +19,7 @@
     "prepack": "npm run build"
   },
   "devDependencies": {
-    "@balena/lint": "^5.4.2",
+    "@balena/lint": "^8.0.0",
     "@types/jest": "^27.4.1",
     "husky": "^4.2.5",
     "jest": "^27.5.1",
